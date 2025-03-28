@@ -1,0 +1,7 @@
+<launch>
+    <node pkg="trajectory_pkg" type="trajectory_saver_node" name="trajectory_saver_node" output="screen">
+        <param name="file_path" value="/home/sherif/anscer_ws/src/trajectory_pkg/data/trajectory_data.json"/>
+        <param name="odom_topic" value="/odom"/>
+    </node>
+
+</launch>

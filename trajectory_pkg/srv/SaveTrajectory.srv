@@ -1,0 +1,5 @@
+string filename      # The file to save trajectory data
+float64 duration     # Duration in seconds (backwards from now)
+---
+bool success         # True if saving was successful
+
