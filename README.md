@@ -3,7 +3,8 @@
 ## Package Description
 This package is designed to save and read trajectory data for robotic applications using ROS (Robot Operating System). It records odometry data, stores it in JSON format, and visualizes it using markers in RViz.
 
-
+# 🎥 Demo
+![alt text](trajectory_pkg/trajectory.gif)
 
 
 # Main Files
